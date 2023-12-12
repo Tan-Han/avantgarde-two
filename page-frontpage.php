@@ -37,7 +37,7 @@
 
 <style>
   .hero {
-    background-color: var(--quaternary-color);
+    background-color: var(--primary-color);
     width: 100%;
     height: 685px;
     display: flex;
@@ -97,7 +97,7 @@
 
   .frontpage-mini-nav {
     width: 100%;
-    background-color: var(--primary-color);
+    background-color: var(--quaternary-color);
     display: flex;
     align-items: center;
     justify-content: center;
