@@ -56,7 +56,7 @@
 
   .hero-logo img {
     max-height: 400px;
-    box-shadow: 5px 5px 2px 0px #0008;
+    box-shadow: 5px 5px 2px 0px #00000088;
   }
 
   .hero-tekst {
@@ -140,6 +140,7 @@
     width: 100%;
     height: 400px;
     object-fit: cover;
+    box-shadow: 5px 5px 2px 0px #00000088;
   }
 
   /* MEDIA QUERIES */
