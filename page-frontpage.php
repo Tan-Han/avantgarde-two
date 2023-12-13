@@ -208,6 +208,14 @@
       padding: .25rem 0;
     }
 
+    h1 {
+      font-size: 42px;
+    }
+
+    h3 {
+      font-size: 22px;
+    }
+
     .frontpage-content .text-box h2 {
       font-size: 25px;
     }
@@ -227,18 +235,6 @@
       gap: 2rem;
     }
 
-    .hero-logo img {
-      max-height: 275px;
-    }
-
-    h1 {
-      font-size: 55px;
-    }
-
-    h3 {
-      font-size: 28px;
-    }
-
     .frontpage-mini-nav p {
       font-size: 18px;
     }
@@ -251,21 +247,9 @@
       height: 400px;
     }
 
-    .hero-logo img {
-      max-height: 250px;
-    }
-
     h1,
     h3 {
       padding: 0 0;
-    }
-
-    h1 {
-      font-size: 45px;
-    }
-
-    h3 {
-      font-size: 25px;
     }
 
     .frontpage-content {
@@ -302,18 +286,6 @@
 
   @media screen and (max-width: 800px) {
 
-    .hero-logo img {
-      max-height: 200px;
-    }
-
-    h1 {
-      font-size: 40px;
-    }
-
-    h3 {
-      font-size: 22px;
-    }
-
     .frontpage-content .text-box h2 {
       font-size: 30px;
     }
@@ -324,18 +296,6 @@
   @media screen and (max-width: 700px) {
     .hero {
       gap: 1rem;
-    }
-
-    .hero-logo img {
-      max-height: 175px;
-    }
-
-    h1 {
-      font-size: 38px;
-    }
-
-    h3 {
-      font-size: 18px;
     }
 
     .frontpage-content .text-box h2 {
@@ -357,24 +317,6 @@
       flex-direction: column;
     }
 
-    .hero-logo img {
-      max-height: 175px;
-      width: 100%;
-    }
-
-    .hero-tekst {
-      width: 100%;
-    }
-
-    h1 {
-      font-size: 45px;
-      text-align: center;
-    }
-
-    h3 {
-      font-size: 25px;
-      text-align: center;
-    }
 
     .frontpage-mini-nav p {
       font-size: 16px;
@@ -388,13 +330,6 @@
 
   @media screen and (max-width: 540px) {
 
-    .hero-logo img {
-      max-height: 150px;
-    }
-
-    h3 {
-      font-size: 22px;
-    }
 
     .frontpage-mini-nav p {
       font-size: 14px;
@@ -404,17 +339,6 @@
 
   @media screen and (max-width: 480px) {
 
-    .hero-logo img {
-      max-height: 125px;
-    }
-
-    h1 {
-      font-size: 35px;
-    }
-
-    h3 {
-      font-size: 18px;
-    }
 
 
     .frontpage-mini-nav p {
@@ -433,9 +357,6 @@
 
   @media screen and (max-width: 400px) {
 
-    h1 {
-      font-size: 32px;
-    }
 
     .frontpage-content .text-box h2 {
       font-size: 23px;
