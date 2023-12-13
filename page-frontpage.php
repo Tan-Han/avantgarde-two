@@ -178,12 +178,12 @@
     h3 {
       font-size: 28px;
     }
-    
+
     h1,
     h3 {
       padding: .5rem 0;
     }
-    
+
     .frontpage-mini-nav p {
       font-size: 20px;
     }
@@ -204,6 +204,7 @@
   }
 
   @media screen and (max-width: 1150px) {
+
     h1,
     h3 {
       padding: .25rem 0;
@@ -297,9 +298,16 @@
   }
 
   @media screen and (max-width: 800px) {
+    h1 {
+      font-size: 32px;
+    }
+
+    h3 {
+      font-size: 16px;
+    }
 
     .frontpage-content .text-box h2 {
-      font-size: 30px;
+      font-size: 28px;
     }
 
   }
@@ -307,7 +315,37 @@
 
   @media screen and (max-width: 700px) {
     .hero {
-      gap: 1rem;
+      flex-direction: column;
+      padding: 3rem 0;
+      gap: 0;
+    }
+
+    .hero-logo {
+      width: 100%;
+      height: 50%;
+      padding-bottom: .5rem;
+    }
+
+    .hero-logo img {
+      box-shadow: 5px 5px 2px 0px #0008;
+    }
+
+    .hero-tekst {
+      width: 100%;
+      height: 50%;
+      padding-left: 10%;
+    }
+
+    h1 {
+      font-size: 48px;
+    }
+
+    h3 {
+      font-size: 25px;
+    }
+
+    .frontpage-mini-nav p {
+      font-size: 16px;
     }
 
     .frontpage-content .text-box h2 {
@@ -320,28 +358,18 @@
 
     .frontpage-content .image-box img {
       height: 250px;
-    }
-  }
-
-  @media screen and (max-width: 600px) {
-
-    .hero {
-      flex-direction: column;
-    }
-
-
-    .frontpage-mini-nav p {
-      font-size: 16px;
-    }
-
-    .frontpage-content .image-box img {
-      height: 250px;
       width: 100%;
     }
   }
 
-  @media screen and (max-width: 540px) {
+  @media screen and (max-width: 550px) {
+    h1 {
+      font-size: 40px;
+    }
 
+    h3 {
+      font-size: 22px;
+    }
 
     .frontpage-mini-nav p {
       font-size: 14px;
@@ -350,8 +378,13 @@
 
 
   @media screen and (max-width: 480px) {
+    h1 {
+      font-size: 35px;
+    }
 
-
+    h3 {
+      font-size: 18px;
+    }
 
     .frontpage-mini-nav p {
       font-size: 12px;
@@ -367,8 +400,14 @@
     }
   }
 
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 410px) {
+    h1 {
+      font-size: 30px;
+    }
 
+    h3 {
+      font-size: 18px;
+    }
 
     .frontpage-content .text-box h2 {
       font-size: 23px;
