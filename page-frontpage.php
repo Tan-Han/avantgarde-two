@@ -80,7 +80,7 @@
   h3 {
     color: var(--white);
     padding: 1rem 0;
-    font-size: 55px;
+    font-size: 42px;
     font-weight: 400;
     text-shadow: #333 3px 3px 3px;
     text-align: left;
@@ -156,7 +156,7 @@
     }
 
     h3 {
-      font-size: 45px;
+      /* font-size: 45px; */
     }
 
     .frontpage-content .text-box h2 {
