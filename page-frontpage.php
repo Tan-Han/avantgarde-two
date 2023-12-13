@@ -70,7 +70,7 @@
   h1 {
     padding: 1rem 0;
     color: var(--white);
-    font-size: 80px;
+    font-size: 75px;
     text-shadow: #333 3px 3px 3px;
     margin: 0;
     width: 100%;
