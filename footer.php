@@ -13,15 +13,16 @@
     <a href="tel:20872332">
       +45 20 87 23 32
     </a>
-    <a href="mailto:bsh@avantgardevinduer.dk">
-      bsh@avantgardevinduer.dk
+    <a href="mailto:avantgardevinduer@live.dk">
+      avantgardevinduer@live.dk
     </a>
     <p>CVR - 33019572</p>
     <a class="fb-link" href="https://www.facebook.com/avantgardevinduer" target=”_blank”><i
         class="fa fa-facebook-square"></i></a>
   </div>
   <div class="logo-box">
-    <img class="logo" src="https://avantgardevinduer.trshansen.com/wp-content/uploads/2023/11/LOGO.png" alt="Avantgardevinduer logo">
+    <img class="logo" src="https://avantgardevinduer.trshansen.com/wp-content/uploads/2023/11/LOGO.png"
+      alt="Avantgardevinduer logo">
   </div>
 </footer>
 
