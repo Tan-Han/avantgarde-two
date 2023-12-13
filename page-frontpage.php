@@ -103,6 +103,7 @@
     padding: .8rem 10%;
     position: relative;
     z-index: 10;
+    box-shadow: 0 2px 5px 5px #00000088;
   }
 
   .frontpage-mini-nav p {
@@ -391,7 +392,7 @@
   }
 
   @media screen and (max-width: 540px) {
-   
+
     .hero-logo img {
       max-height: 150px;
     }
@@ -399,11 +400,11 @@
     h3 {
       font-size: 22px;
     }
-    
+
     .frontpage-mini-nav p {
       font-size: 14px;
     }
-    }
+  }
 
 
   @media screen and (max-width: 480px) {
@@ -420,7 +421,7 @@
       font-size: 18px;
     }
 
-    
+
     .frontpage-mini-nav p {
       font-size: 12px;
     }
