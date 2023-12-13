@@ -43,24 +43,28 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 3rem 10%;
     gap: 5rem;
+    overflow: hidden;
   }
 
   .hero-logo {
-    width: 35%;
+    width: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
   }
 
   .hero-logo img {
-    max-height: 400px;
-    box-shadow: 5px 5px 2px 0px #00000088;
+    height: 100%;
   }
 
   .hero-tekst {
-    width: 65%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 10%;
   }
 
   h1 {
@@ -88,12 +92,6 @@
     border-top: 3px solid;
     opacity: 100%;
     align-self: center;
-  }
-
-  .hero-tekst {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
   }
 
   .frontpage-mini-nav {
