@@ -53,6 +53,7 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    height: 100%;
   }
 
   .hero-logo img {
@@ -239,6 +240,17 @@
       font-size: 18px;
     }
 
+  }
+
+  @media screen and (max-width: 980px) {
+
+    h1 {
+      font-size: 38px;
+    }
+
+    h3 {
+      font-size: 18px;
+    }
   }
 
   @media screen and (max-width: 900px) {
