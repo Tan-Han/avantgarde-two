@@ -101,6 +101,8 @@
     align-items: center;
     justify-content: center;
     padding: .8rem 10%;
+    position: relative;
+    z-index: 10;
   }
 
   .frontpage-mini-nav p {
