@@ -156,11 +156,11 @@
     }
 
     h3 {
-      /* font-size: 45px; */
+      font-size: 35px;
     }
 
     .frontpage-content .text-box h2 {
-      font-size: 35px;
+      font-size: 40px;
     }
   }
 
@@ -170,25 +170,25 @@
       height: 475px;
     }
 
-    .hero-logo img {
-      max-height: 350px;
+    h1 {
+      font-size: 50px;
     }
 
-    .frontpage-mini-nav p {
-      font-size: 20px;
+    h3 {
+      font-size: 28px;
     }
-
+    
     h1,
     h3 {
       padding: .5rem 0;
     }
-
-    h3 {
-      font-size: 35px;
+    
+    .frontpage-mini-nav p {
+      font-size: 20px;
     }
 
     .frontpage-content .text-box h2 {
-      font-size: 30px;
+      font-size: 35px;
       padding: .5rem 0;
     }
 
@@ -203,11 +203,6 @@
   }
 
   @media screen and (max-width: 1150px) {
-
-    .hero-logo img {
-      max-height: 300px;
-    }
-
     h1,
     h3 {
       padding: .25rem 0;
